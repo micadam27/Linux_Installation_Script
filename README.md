@@ -1,2 +1,2 @@
-# Ubuntu_Webmin_script
-Script pour installer Webmin sur Ubuntu.
+# Ubuntu_Installation_Script
+Liste de script utile lors de l'installation d'un server sous ubuntu server
